@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.5" height="37.5" viewBox="0 0 37.5 37.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.309" x2="0.564" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5a341"/>
+      <stop offset="1" stop-color="#ee1d50"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_13">
+      <rect width="37.5" height="37.5"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_13" data-name="Artboard – 13" clip-path="url(#clip-Artboard_13)">
+    <g id="chart" transform="translate(-0.199 0.5)">
+      <path id="Path_1137" data-name="Path 1137" d="M37,33a1.086,1.086,0,0,0-.9-.4H1.6a1.284,1.284,0,0,0-1,.4,1.086,1.086,0,0,0-.4.9,1.43,1.43,0,0,0,1.4,1.4H36A1.493,1.493,0,0,0,37.4,34,2.321,2.321,0,0,0,37,33Z" fill="#ee1d50"/>
+      <path id="Path_1138" data-name="Path 1138" d="M3.7,30.4h30A1.43,1.43,0,0,0,35.1,29V7.9a1.43,1.43,0,0,0-1.4-1.4h-6a1.43,1.43,0,0,0-1.4,1.4v5.3H23V3.9a1.43,1.43,0,0,0-1.4-1.4h-6a1.43,1.43,0,0,0-1.4,1.4V19.6H10.9V12.8a1.43,1.43,0,0,0-1.4-1.4h-6a1.43,1.43,0,0,0-1.4,1.4V29.1A1.927,1.927,0,0,0,3.7,30.4Zm1.4-2.7V14.1H8.4V27.7Zm6,0V22.2h3.3v5.5Zm6,0V5.2h3.3V27.7Zm6,0V15.9h3.3V27.7Zm6,0V9.2h3.3V27.7Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

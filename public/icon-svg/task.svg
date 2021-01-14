@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.5" height="35.5" viewBox="0 0 35.5 35.5">
+  <defs>
+    <clipPath id="clip-Artboard_61">
+      <rect width="35.5" height="35.5"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_61" data-name="Artboard – 61" clip-path="url(#clip-Artboard_61)">
+    <g id="list" transform="translate(-59)">
+      <g id="Group_486" data-name="Group 486" transform="translate(68.418 13.25)">
+        <g id="Group_485" data-name="Group 485">
+          <path id="Path_1047" data-name="Path 1047" d="M136.533,192.332a1.108,1.108,0,0,0-1.563,0l-3.635,3.637-1.427-1.429a1.1,1.1,0,0,0-1.561,1.561l2.208,2.208a1.093,1.093,0,0,0,.78.325,1.109,1.109,0,0,0,.782-.322l4.417-4.417A1.1,1.1,0,0,0,136.533,192.332Z" transform="translate(-128.024 -192.008)"/>
+        </g>
+      </g>
+      <g id="Group_488" data-name="Group 488" transform="translate(68.418 22.084)">
+        <g id="Group_487" data-name="Group 487">
+          <path id="Path_1048" data-name="Path 1048" d="M136.533,320.332a1.108,1.108,0,0,0-1.563,0l-3.635,3.637-1.427-1.427a1.1,1.1,0,0,0-1.561,1.561l2.208,2.208a1.106,1.106,0,0,0,1.561,0l4.417-4.417A1.1,1.1,0,0,0,136.533,320.332Z" transform="translate(-128.024 -320.008)"/>
+        </g>
+      </g>
+      <g id="Group_490" data-name="Group 490" transform="translate(79.458 15.458)">
+        <g id="Group_489" data-name="Group 489">
+          <path id="Path_1049" data-name="Path 1049" d="M293.521,224H289.1a1.1,1.1,0,0,0,0,2.208h4.417a1.1,1.1,0,1,0,0-2.208Z" transform="translate(-288 -224)"/>
+        </g>
+      </g>
+      <g id="Group_492" data-name="Group 492" transform="translate(79.458 24.291)">
+        <g id="Group_491" data-name="Group 491">
+          <path id="Path_1050" data-name="Path 1050" d="M293.521,352H289.1a1.1,1.1,0,0,0,0,2.208h4.417a1.1,1.1,0,1,0,0-2.208Z" transform="translate(-288 -352)"/>
+        </g>
+      </g>
+      <g id="Group_494" data-name="Group 494" transform="translate(64)">
+        <g id="Group_493" data-name="Group 493">
+          <path id="Path_1051" data-name="Path 1051" d="M88.291,4.417H83.875v-1.1a1.1,1.1,0,0,0-1.1-1.1h-2.4a3.315,3.315,0,0,0-6.25,0h-2.4a1.1,1.1,0,0,0-1.1,1.1v1.1H66.208A2.212,2.212,0,0,0,64,6.625v26.5a2.212,2.212,0,0,0,2.208,2.208H88.291A2.212,2.212,0,0,0,90.5,33.125V6.625A2.212,2.212,0,0,0,88.291,4.417Zm-15.458,0h2.208a1.1,1.1,0,0,0,1.1-1.1,1.1,1.1,0,0,1,2.208,0,1.1,1.1,0,0,0,1.1,1.1h2.208V6.625H72.833ZM88.291,33.125H66.208V6.625h4.417v1.1a1.1,1.1,0,0,0,1.1,1.1H82.771a1.1,1.1,0,0,0,1.1-1.1v-1.1h4.417Z" transform="translate(-64)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

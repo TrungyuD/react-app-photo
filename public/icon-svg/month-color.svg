@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.199" height="32.199" viewBox="0 0 32.199 32.199">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.125" x2="0.67" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5a341"/>
+      <stop offset="1" stop-color="#ee1d50"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_31">
+      <rect width="32.2" height="32.2"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_31" data-name="Artboard – 31" clip-path="url(#clip-Artboard_31)">
+    <path id="month" d="M28.2,2.9H25.8V1.7A1.538,1.538,0,0,0,24.3.2h0a1.538,1.538,0,0,0-1.5,1.5V2.8H9.7V1.7a1.5,1.5,0,1,0-3,0V2.8H4.3A4.184,4.184,0,0,0,.2,6.9V28.2a4.184,4.184,0,0,0,4.1,4.1H28.2a4.184,4.184,0,0,0,4.1-4.1V6.9A4.034,4.034,0,0,0,28.2,2.9ZM3.2,13.5H29.3V28.2a1.11,1.11,0,0,1-1.1,1.1H4.3a1.11,1.11,0,0,1-1.1-1.1V13.5ZM8.2,9A1.453,1.453,0,0,0,9.7,7.6V5.8H22.9V7.6a1.5,1.5,0,0,0,3,0V5.8h2.4a1.11,1.11,0,0,1,1.1,1.1v3.7H3.3V6.9A1.11,1.11,0,0,1,4.4,5.8H6.8V7.6A1.312,1.312,0,0,0,8.2,9Z" transform="translate(-0.199 -0.199)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

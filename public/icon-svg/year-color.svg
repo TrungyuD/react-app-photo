@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.6" height="37.6" viewBox="0 0 37.6 37.6">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.141" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5a341"/>
+      <stop offset="1" stop-color="#ee1d50"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_32">
+      <rect width="37.6" height="37.6"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_32" data-name="Artboard – 32" clip-path="url(#clip-Artboard_32)">
+    <g id="year" transform="translate(0.301 -0.199)">
+      <g id="Ellipse_13" transform="translate(1028 198)">
+        <g id="Group_611" data-name="Group 611">
+          <path id="Path_1101" data-name="Path 1101" d="M-1000.8-160.3a8.963,8.963,0,0,1-9-9,8.963,8.963,0,0,1,9-9,8.963,8.963,0,0,1,9,9A8.963,8.963,0,0,1-1000.8-160.3Zm0-15.5a6.487,6.487,0,0,0-6.5,6.5,6.487,6.487,0,0,0,6.5,6.5,6.487,6.487,0,0,0,6.5-6.5A6.487,6.487,0,0,0-1000.8-175.8Z" fill="#ee1d50"/>
+        </g>
+      </g>
+      <g id="Path_1022">
+        <path id="Path_1102" data-name="Path 1102" d="M26.1,33.1l-3.7-3.7a1.273,1.273,0,0,1,1.8-1.8l2,2,4.1-3.8A1.275,1.275,0,1,1,32,27.7Z" fill="#ee1d50"/>
+      </g>
+      <path id="Path_1103" data-name="Path 1103" d="M19.7,29.3H5.8a1.11,1.11,0,0,1-1.1-1.1V13.5H30.8V23h2.9V6.9a4.166,4.166,0,0,0-4-4.1H27.3V1.7A1.538,1.538,0,0,0,25.8.2h0a1.528,1.528,0,0,0-1,.4,1.284,1.284,0,0,0-.4,1V2.7H11.1v-1A1.538,1.538,0,0,0,9.6.2,1.453,1.453,0,0,0,8.2,1.7V2.8H5.8A4.184,4.184,0,0,0,1.7,6.9V28.2a4.184,4.184,0,0,0,4.1,4.1H19.7ZM4.7,6.9A1.11,1.11,0,0,1,5.8,5.8H8.2V7.6a1.5,1.5,0,0,0,3-.1V5.8H24.4V7.6A1.43,1.43,0,0,0,25.8,9a1.538,1.538,0,0,0,1.5-1.5V5.8h2.4a1.11,1.11,0,0,1,1.1,1.1v3.7H4.7V6.9Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

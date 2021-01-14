@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.699" height="36.7" viewBox="0 0 36.699 36.7">
+  <defs>
+    <clipPath id="clip-Artboard_55">
+      <rect width="36.7" height="36.7"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_55" data-name="Artboard – 55" clip-path="url(#clip-Artboard_55)">
+    <g id="coin" transform="translate(1 1)">
+      <g id="Group_456" data-name="Group 456" transform="translate(0)">
+        <g id="Group_455" data-name="Group 455" transform="translate(0)">
+          <path id="Path_1044" data-name="Path 1044" d="M29.59,5.077A17.333,17.333,0,0,0,5.077,29.59,17.333,17.333,0,0,0,29.59,5.077ZM17.333,32.635a15.3,15.3,0,1,1,15.3-15.3A15.319,15.319,0,0,1,17.333,32.635Z" transform="translate(0)" fill="#5d5d5d" stroke="#5d5d5d" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_458" data-name="Group 458" transform="translate(11.966 6.527)">
+        <g id="Group_457" data-name="Group 457">
+          <path id="Path_1045" data-name="Path 1045" d="M183.189,106.192h-2.176a2.248,2.248,0,1,1,0-4.5h4.351a1.016,1.016,0,0,0,0-2.031h-2.248V97.417a1.016,1.016,0,1,0-2.031,0v2.248h-.072a4.279,4.279,0,1,0,0,8.558h2.176a2.248,2.248,0,0,1,0,4.5h-4.351a1.016,1.016,0,1,0,0,2.031h2.248V117a1.016,1.016,0,1,0,2.031,0V114.75h.072a4.279,4.279,0,0,0,0-8.558Z" transform="translate(-176.734 -96.401)" fill="#5d5d5d" stroke="#5d5d5d" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

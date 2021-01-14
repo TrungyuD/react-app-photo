@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.522" height="37" viewBox="0 0 38.522 37">
+  <g id="speech-bubble-with-text-lines" transform="translate(0.5 -6.73)">
+    <g id="Group_33" data-name="Group 33" transform="translate(0 7.23)">
+      <path id="Path_901" data-name="Path 901" d="M30.944,7.23H6.579A6.586,6.586,0,0,0,0,13.809V28.837a6.586,6.586,0,0,0,6.579,6.579H22.1l7.429,7.429a1.316,1.316,0,0,0,2.246-.93V35.364a6.588,6.588,0,0,0,5.749-6.527V13.809A6.586,6.586,0,0,0,30.944,7.23Zm3.947,21.607a3.952,3.952,0,0,1-3.947,3.947h-.486A1.316,1.316,0,0,0,29.142,34.1v4.638L23.573,33.17a1.315,1.315,0,0,0-.93-.385H6.579a3.952,3.952,0,0,1-3.947-3.947V13.809A3.952,3.952,0,0,1,6.579,9.862H30.944a3.952,3.952,0,0,1,3.947,3.947Z" transform="translate(0 -7.23)" fill="#bcbcbc" stroke="#bcbcbc" stroke-width="1"/>
+      <path id="Path_902" data-name="Path 902" d="M94.425,95.743H75.058a1.316,1.316,0,1,0,0,2.631H94.425a1.316,1.316,0,1,0,0-2.631Z" transform="translate(-65.98 -86.426)" fill="#bcbcbc" stroke="#bcbcbc" stroke-width="1"/>
+      <path id="Path_903" data-name="Path 903" d="M94.425,165.743H75.058a1.316,1.316,0,1,0,0,2.631H94.425a1.316,1.316,0,1,0,0-2.631Z" transform="translate(-65.98 -149.058)" fill="#bcbcbc" stroke="#bcbcbc" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.5" height="38.5" viewBox="0 0 38.5 38.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.08" y1="-0.044" x2="0.753" y2="0.979" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5a341"/>
+      <stop offset="1" stop-color="#ee1d50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.059" y1="-3.256" x2="0.753" y2="0.979" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Artboard_49">
+      <rect width="38.5" height="38.5"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_49" data-name="Artboard – 49" clip-path="url(#clip-Artboard_49)">
+    <g id="paper" transform="translate(0.199)">
+      <path id="Path_1141" data-name="Path 1141" d="M34.5,9.4l-9-9a1.433,1.433,0,0,0-1-.4H5.2A1.453,1.453,0,0,0,3.8,1.5V36.8a1.538,1.538,0,0,0,1.5,1.5H33.5A1.538,1.538,0,0,0,35,36.8V10.5A2.22,2.22,0,0,0,34.5,9.4ZM25.9,9V5.1l4,3.9Zm-1.4,3H32V35.3H6.7V3H23v7.5A1.538,1.538,0,0,0,24.5,12Z" fill="url(#linear-gradient)"/>
+      <path id="Path_1142" data-name="Path 1142" d="M10.6,17.1a1.538,1.538,0,0,0,1.5,1.5H26.7a1.5,1.5,0,0,0,0-3H12A1.453,1.453,0,0,0,10.6,17.1Z" fill="url(#linear-gradient-2)"/>
+      <path id="Path_1143" data-name="Path 1143" d="M26.6,22.1H12a1.5,1.5,0,1,0,0,3H26.6a1.538,1.538,0,0,0,1.5-1.5A1.473,1.473,0,0,0,26.6,22.1Z" fill="url(#linear-gradient-2)"/>
+      <path id="Path_1144" data-name="Path 1144" d="M26.6,28.7H12a1.5,1.5,0,0,0,0,3H26.6a1.538,1.538,0,0,0,1.5-1.5A1.473,1.473,0,0,0,26.6,28.7Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

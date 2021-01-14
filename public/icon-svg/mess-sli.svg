@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-Artboard_26">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_26" data-name="Artboard – 26" clip-path="url(#clip-Artboard_26)">
+    <g id="Group_345" data-name="Group 345" transform="translate(-0.098 10)">
+      <rect id="Rectangle_485" data-name="Rectangle 485" width="2.82" height="2.82" rx="1.41" transform="translate(24.575 27.659)" fill="#fff"/>
+      <rect id="Rectangle_486" data-name="Rectangle 486" width="2.82" height="2.82" rx="1.41" transform="translate(29.308 27.659)" fill="#fff"/>
+      <rect id="Rectangle_487" data-name="Rectangle 487" width="2.82" height="2.82" rx="1.41" transform="translate(24.575 31.728)" fill="#fff"/>
+      <rect id="Rectangle_488" data-name="Rectangle 488" width="2.82" height="2.82" rx="1.41" transform="translate(29.308 31.728)" fill="#fff"/>
+      <path id="Path_1008" data-name="Path 1008" d="M56.728,192.68l19.964-19.3a7.916,7.916,0,0,1,10.911,0l4.725,4.558v-3.133a2.482,2.482,0,0,1,4.96,0v7.914l10.109,9.713a11.9,11.9,0,0,0-2.931-20.506,7.5,7.5,0,0,0-11.724-7.893,17.646,17.646,0,0,0-33.715,7.288,17.837,17.837,0,0,0,.131,2.124A11.151,11.151,0,0,0,56.73,192.68Z" transform="translate(-52.262 -153.68)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
