@@ -4,7 +4,7 @@ import TermService from './SHTermService/SHTermService';
 function App() {
   return (
     <div className="">
-      <TermService />
+      <HomePage />
     </div>
   );
 }

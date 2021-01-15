@@ -132,11 +132,11 @@ const SHHomePage = () => {
 																		<div className="ekit-wid-con">
 																			<div className="elementskit-info-image-box ekit-image-box text-center simple-card">
 																				<div className="elementskit-box-header image-box-img-center">
-																					<img width="150" height="150" alt="" 
+																					<img  alt="" 
 																					src="/image/homepage/booking-150x150.png" 
 																					className="attachment-thumbnail size-thumbnail"  
 																					loading="lazy" 
-																					srcset="images/booking-150x150.png 150w, images/booking-300x300.png 300w, images/booking-400x400.png 400w, images/booking.png 512w" 
+																					// srcset="images/booking-150x150.png 150w, images/booking-300x300.png 300w, images/booking-400x400.png 400w, images/booking.png 512w" 
 																					sizes="(max-width: 150px) 100vw, 150px" 
 																					data-pagespeed-url-hash="491797372" 
 																					onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
@@ -169,7 +169,7 @@ const SHHomePage = () => {
 																					src="/image/homepage/management-150x150.png" 
 																					className="attachment-thumbnail size-thumbnail" 
 																					alt="" loading="lazy" 
-																					srcset="images/management-150x150.png 150w, images/management-300x300.png 300w, images/management-400x400.png 400w, images/management.png 512w" 
+																					// srcset="images/management-150x150.png 150w, images/management-300x300.png 300w, images/management-400x400.png 400w, images/management.png 512w" 
 																					sizes="(max-width: 150px) 100vw, 150px" 
 																					data-pagespeed-url-hash="1341676316" 
 																					onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
@@ -205,7 +205,7 @@ const SHHomePage = () => {
 																					src="/image/homepage/bank-check-150x150.png" 
 																					className="attachment-thumbnail size-thumbnail" 
 																					alt="" loading="lazy" 
-																					srcset="images/bank-check-150x150.png 150w, images/bank-check-300x300.png 300w, images/bank-check-400x400.png 400w, images/bank-check.png 512w" 
+																					// srcset="images/bank-check-150x150.png 150w, images/bank-check-300x300.png 300w, images/bank-check-400x400.png 400w, images/bank-check.png 512w" 
 																					sizes="(max-width: 150px) 100vw, 150px" 
 																					data-pagespeed-url-hash="1233270388" 
 																					onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
@@ -227,8 +227,6 @@ const SHHomePage = () => {
 															</div>
 														</div>
 													</div>
-												
-												
 												</div>
 											</div>
 										</section>
@@ -277,7 +275,7 @@ const SHHomePage = () => {
 																			src="/image/homepage/Asset-1-1.png" 
 																			className="attachment-2048x2048 size-2048x2048" 
 																			alt="" loading="lazy" 
-																			srcset="images/Asset-1-1.png 443w, images/Asset-1-1-300x131.png 300w" 
+																			// srcset="images/Asset-1-1.png 443w, images/Asset-1-1-300x131.png 300w" 
 																			sizes="(max-width: 443px) 100vw, 443px" 
 																			data-pagespeed-url-hash="1525748084" 
 																			onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />											
